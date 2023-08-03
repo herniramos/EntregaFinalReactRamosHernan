@@ -82,7 +82,7 @@ const Cart = () => {
       {cart.map((product) => (
         <div className="cardCart" key={product.id}>
           <div className="tittleItemCart">{product.title}</div>
-          <img className="imageItemCart" alt={product.title} src={`/img/${product.image}`} />
+          <img className="imageItemCart" alt={product.title} src={`${product.image}`} />
           <div className="quantityItemCart">Cantidad: {product.quantity}</div>
           <div className="priceItemCart">Precio total ${product.price*product.quantity}</div>
           <Button className="buttonQuitar" variant="outline-success" onClick={() => removeItem(product.id)}>Quitar producto</Button>
