@@ -1,0 +1,50 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+    background-color:rgb(43, 42, 42);
+}
+
+.productos {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 1%;
+}
+
+.productos ul{
+    display: flex;
+    list-style: none;
+}
+
+.productos li {
+    margin: 20px 0;
+    margin-left: 40px;
+    
+    
+}
+
+.activo {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+
+}
+
+.activo:hover {
+    color: lightgray;
+}
+
+.inactivo {
+    text-decoration: none;
+    color:black;
+    font-size: 18px;
+    font-weight: 500;
+    
+
+}
+
+.inactivo:hover {
+    color:black;
+}

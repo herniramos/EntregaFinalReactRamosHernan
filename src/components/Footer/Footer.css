@@ -1,0 +1,49 @@
+.footer-container {
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+  padding: 0px 10px;
+  background-color: rgb(43, 42, 42);
+  position: relative;
+  
+}
+
+.footer-container .data {
+  display: flex;
+  flex-direction: column;
+  justify-items: left;
+  align-items: left;
+  font-size: 0.8rem;
+  margin-left: 100px;
+
+}
+.footer-container .data h4 {
+    font-size: 0.9rem;
+    font-weight: 400;
+    margin: 5px 0;
+    color: black;
+}
+.footer-container .data h6 {
+  font-size: 0.6rem;
+  font-weight: 600;
+  margin: 10px 0;
+  color:black;
+}
+
+.footer-container .socialnet{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    margin: 15px;
+    size: 150px;
+    margin-right: 100px;
+  }
+
+
+.footer-container .socialnet .a{
+  display: flex;
+  padding: 10px;
+  margin: 15px;
+  color: rgb(81, 242, 13);
+  width: 200px;
+}
