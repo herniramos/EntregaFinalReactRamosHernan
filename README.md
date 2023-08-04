@@ -6,14 +6,14 @@ Este es un proyecto realizado para el curso de ReactJs de CoderHouse. En la mism
 
 # Se uilizó
 React-bootstrap (para dar estilos CSS, inlcuyendo botones).
-Sweetalert (para dar la confirmación de compra exitosa).
-FontAwesomeIcon (para agregar íconos de redes sociales).
-Firebase
-ReactJs
-JavaScript
-HTML
-CSS
-NPM START
+<br>Sweetalert (para dar la confirmación de compra exitosa).
+<br>FontAwesomeIcon (para agregar íconos de redes sociales).
+<br>Firebase
+<br>ReactJs
+<br>JavaScript
+<br>HTML
+<br>CSS
+<br>NPM START
 
 # Link de Repositorio GitHub
 
