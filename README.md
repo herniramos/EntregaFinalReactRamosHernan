@@ -2,14 +2,18 @@
 
 # LIFT CLOTHES (ecommerce).
 La tienda online Oficial de LIFT CLOTHES.
-En la misma podrás encontrar remeras, pantalones y accesorios.
+Este es un proyecto realizado para el curso de ReactJs de CoderHouse. En la misma podrás encontrar remeras, pantalones y accesorios.
 
-# Librerías utilizadas
+# Se uilizó
 React-bootstrap (para dar estilos CSS, inlcuyendo botones).
 Sweetalert (para dar la confirmación de compra exitosa).
 FontAwesomeIcon (para agregar íconos de redes sociales).
-
-Se utilizó Firebase como "Base de datos"
+Firebase
+ReactJs
+JavaScript
+HTML
+CSS
+NPM START
 
 # Link de Repositorio GitHub
 
